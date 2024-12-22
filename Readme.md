@@ -21,30 +21,32 @@ El proyecto está organizado en varios módulos para mantener el código limpio 
 -`content.js`: Archivo de escucha para el bot.
 
 ## Capturas de los ejercicios
-1. Enviar mensajes y archivos a través de Telegram desde la línea de comando
-![alt text](Images/script_1.png)
-![alt text](Images/script_2.png)
-![alt text](Images/mensaje_3.png)
 
-2. Crear un bot que te dé la bienvenida cada vez que digas '/hi'
-![alt text](Images/script_4.png)
-![alt text](Images/mensaje_5.png)
+1. Enviar mensajes y archivos a través de Telegram desde la línea de comando  
+<img src="Images/script_1.png" width="400" />  
+<img src="Images/script_2.png" width="400" />  
+<img src="Images/mensaje_3.png" width="400" />
 
-3. Conectar el bot con la API de Nodejs y solicitar la lista de eventos y la información específica del evento
-![alt text](Images/script_6.png)
-![alt text](Images/mensaje_7.png)
-![alt text](Images/mensaje_8.png)
+2. Crear un bot que te dé la bienvenida cada vez que digas '/hi'  
+<img src="Images/script_4.png" width="400" />  
+<img src="Images/mensaje_5.png" width="400" />
 
-4. Agreguar un comando al bot que apague la computadora en los siguientes N segundos
-![alt text](Images/script_9.png)
-![alt text](Images/mensaje_10.png)
+3. Conectar el bot con la API de Nodejs y solicitar la lista de eventos y la información específica del evento  
+<img src="Images/script_6.png" width="400" />  
+<img src="Images/mensaje_7.png" width="400" />  
+<img src="Images/mensaje_8.png" width="400" />
 
-5.  Cada vez que recibas un nuevo correo electrónico de gmail léelo en Telegram
-![alt text](Images/gmail_11.png)
+4. Agregar un comando al bot que apague la computadora en los siguientes N segundos  
+<img src="Images/script_9.png" width="400" />  
+<img src="Images/mensaje_10.png" width="400" />
 
-6. Crear una extension en chrome que escuches mensajes de terceros y lo reenvie al bot
-![alt text](Images/ext_12.png)
-![alt text](Images/bot_13.png)
+5. Cada vez que recibas un nuevo correo electrónico de Gmail léelo en Telegram  
+<img src="Images/gmail_11.png" width="400" />
+
+6. Crear una extensión en Chrome que escuche mensajes de terceros y los reenvíe al bot  
+<img src="Images/ext_12.png" width="400" />  
+<img src="Images/bot_13.png" width="400" />
+
 
 ## Requisitos
 
