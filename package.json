@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.7.1",
+    "googleapis": "^39.2.0",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.64.6"
+  }
+}
