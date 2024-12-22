@@ -54,4 +54,4 @@ Para ejecutar este proyecto, necesitarás:
 
 - Node.js instalado en tu sistema.
 - Un bot de Telegram y su token correspondiente. Puedes obtener uno a través de BotFather en Telegram.
--chrome
+- chrome
